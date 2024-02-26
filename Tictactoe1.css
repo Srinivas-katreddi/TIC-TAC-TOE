@@ -1,0 +1,56 @@
+body{
+    
+    background-image: url(tic1.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+  
+
+}
+#t1,#t2,#t3, #t4, #t5, #t6 ,#t7, #t8, #t9{
+    width: 80px;
+    height: 80px;
+    
+}
+table{
+    margin-left: 10%;
+    margin-top: 5%;
+    
+}
+
+button:hover{
+    background-color: red;
+}
+h1{
+    color: aliceblue;
+    margin-left: -3%;
+    margin-right: -0.3%;
+    background-color: black;
+    padding: 20px;
+    margin-top: -20px;
+    
+}
+#r1{
+    border: none;
+  color: white;
+  padding: 7px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  background-color: goldenrod;
+  margin-left: 15%;
+  margin-top: 20px;
+}
+h2{
+    margin-left: 45%;
+    color: gold;
+    text-shadow: 2px 2px black;
+}
+h3{
+    margin-left: 10%;
+    color: rgb(25, 4, 4);
+    text-decoration-color: burlywood;
+    text-shadow: 5px 5px solid black;
+}
